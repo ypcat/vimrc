@@ -9,7 +9,7 @@ set showcmd ruler
 set showmatch
 set smarttab expandtab shiftwidth=4 tabstop=4
 set list listchars=tab:>-,trail:-
-set relativenumber numberwidth=3
+"set relativenumber numberwidth=3
 set modeline modelines=5
 
 nnoremap <space> <c-f>
